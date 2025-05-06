@@ -33,4 +33,8 @@ class Lingkaran
         cin >> jarijari;
     }
 
-}
+    int luaslinglaran(int r)
+    {
+        return 3.14 * r * r;
+    }
+};
